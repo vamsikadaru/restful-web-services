@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import com.vamsi.rest.webservices.restful_web_services.ErrorDetails;
 import com.vamsi.rest.webservices.restful_web_services.users.UserNotFoundException;
 
 @ControllerAdvice
