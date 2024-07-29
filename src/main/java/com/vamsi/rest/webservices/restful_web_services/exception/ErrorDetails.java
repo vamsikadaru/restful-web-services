@@ -1,4 +1,4 @@
-package com.vamsi.rest.webservices.restful_web_services;
+package com.vamsi.rest.webservices.restful_web_services.exception;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
